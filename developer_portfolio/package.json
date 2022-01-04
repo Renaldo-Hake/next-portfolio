@@ -1,0 +1,21 @@
+{
+  "name": "developer_portfolio",
+  "version": "1.0.0",
+  "description": "developer portfolio with next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renaldo Hake",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  } 
+}
